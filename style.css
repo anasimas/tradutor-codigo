@@ -6,7 +6,20 @@
 }
 
 #header{
-    
+    margin-top: 2vh;
+}
+
+input{
+    border-radius: 3px;
+    border: 1px #ddd solid;
+}
+
+#main{
+    min-height: 65vh;
+}
+
+label{
+    margin: 3px;
 }
 
 textarea{
@@ -15,4 +28,13 @@ textarea{
 
 select{
     border-radius: 3px;
+    width: 100%;
+}
+
+#botaoTraduzir{
+    border-radius: 5px;
+    border: none;
+    padding: 2vh 2vw;
+    cursor: pointer;
+    font-size: 20px;
 }
