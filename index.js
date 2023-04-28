@@ -1,5 +1,24 @@
-const opcoesLinguagens = ['JavaScript', 'PHP', 'Python', 'TypeScript'];
+const opcoesLinguagens = ["JavaScript","Python", "TypeScript", "PHP"];
 const APIKey = document.getElementById('APIkey');
 const botaoTraduzir = document.getElementById('botaoTraduzir');
-const LinguagemInput = document.getElementById('ling_input').value;
-const LinguagemOutput = document.getElementById('ling_output').value;
+const linguagemInput = document.getElementById('ling_input');
+const linguagemOutput = document.getElementById('ling_output');
+
+//select elements
+for(let i = 0; i < opcoesLinguagens.length; i++){
+   linguagemInput.innerHTML += `<option value="${opcoesLinguagens[i]}">${opcoesLinguagens[i]}</option>`;
+   linguagemOutput.innerHTML += `<option value="${opcoesLinguagens[i]}">${opcoesLinguagens[i]}</option>`;
+}
+
+
+//get API key
+
+//choose input language
+
+//choose output language
+
+//eventListener translate button
+
+//call API
+
+//handle response
