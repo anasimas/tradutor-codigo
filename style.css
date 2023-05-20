@@ -6,9 +6,13 @@
 }
 
 body{
-    height: 100vh; 
     background: linear-gradient(180deg, rgba(141,153,174,1) 50%, rgba(43,45,66,1) 100%);
     font-family: 'Synonym', sans-serif;
+    height: 100vh;
+}
+
+.container{
+    margin-top: 3vh;
 }
 
 #header{
