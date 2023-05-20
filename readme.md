@@ -10,4 +10,4 @@ Para traduzir um código, acesse o site do chatGPT e, na aba DEVELOPER, crie uma
 ![Imagem](/site.png)
 
 Acesse! 
-![site](https://tradutor-chatgpt.000webhostapp.com)
+[site](https://tradutor-chatgpt.000webhostapp.com)
