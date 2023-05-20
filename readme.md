@@ -8,3 +8,6 @@ Projeto realizado para a matéria de JavaScript da faculdade sobre chamada de AP
 
 Para traduzir um código, acesse o site do chatGPT e, na aba DEVELOPER, crie uma chave API pessoal.
 ![Imagem](/site.png)
+
+Acesse! 
+![site](https://tradutor-chatgpt.000webhostapp.com)
